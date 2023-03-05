@@ -6,8 +6,21 @@
 
 ### 🧑‍💻 About Me :
 
-I am a Junior Full Stack React Native Developer from Bangladesh.
+I am a Junior full Stack Mobile App Developer from Bangladesh.
 
 I’ve been actively studying the full stack for 2+ year. Quickly learn new information, have good analytical skills, attentive to details, work well on my own and in a team. Read much specialized literature. I like to achieve perfection in everything I do.
 
 Languages : English, Bangla, Hindi,
+
+---
+
+### My stack and tools :
+
+<img src='./image/javascript.png' height='40' width='40'/> 
+<img src='./image/react.png' height='50' width='55'/> 
+<img src='./image/react-native.png' height='45' width='55'/> 
+<img src='./image/redux.png' height='45' width='55'/> 
+<img src='./image/node.png' height='45' width='55'/> 
+<img src='./image/express.png' height='45' width='55'/>
+<img src='./image/socketio.png' height='45' width='55'/>
+<img src='./image/webRTC.png' height='45' width='55'/>
