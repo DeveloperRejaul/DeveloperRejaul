@@ -16,11 +16,13 @@ Languages : English, Bangla, Hindi,
 
 ### My stack and tools :
 
-<img style="display: inline"  src='./image/javascript.png' height='40' width='40'/> 
-<img style="display: inline"  src='./image/react.png' height='50' width='55'/>
-<img style="display: inline"  src='./image/react-native.png' height='45' width='55'/>
-<img style="display: inline"  src='./image/redux.png' height='45' width='55'/>
-<img style="display: inline"  src='./image/node.png' height='45' width='55'/>
-<img style="display: inline"  src='./image/express.png' height='45' width='55'/>
-<img style="display: inline"  src='./image/socketio.png' height='45' width='55'/>
-<img style="display: inline"  src='./image/webRTC.png' height='45' width='55'/>
+<p>
+<img src='./image/javascript.png' height='40' width='40'/> 
+<img src='./image/react.png' height='50' width='55'/>
+<img src='./image/react-native.png' height='45' width='55'/>
+<img src='./image/redux.png' height='45' width='55'/>
+<img src='./image/node.png' height='45' width='55'/>
+<img src='./image/express.png' height='45' width='55'/>
+<img src='./image/socketio.png' height='45' width='55'/>
+<img src='./image/webRTC.png' height='45' width='55'/>
+</p>
