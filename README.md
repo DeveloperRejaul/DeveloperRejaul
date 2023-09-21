@@ -13,8 +13,9 @@ I’ve been actively studying the full stack for 3+ year. Quickly learn new info
 Languages : English, Bangla, Hindi
 
 ---
-## Programming Languages: Javascript, python, dart, kotlin, php, GO, Rust, Swift
+
 ### My stack and tools :
+###### Programming Languages: Javascript, python, dart, kotlin, php, GO, Rust, Swift
 <p>
 <img src='./image/javascript.png' height='40' width='40'/> 
 <img src='./image/react.png' height='50' width='55'/>
