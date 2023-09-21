@@ -15,7 +15,7 @@ Languages : English, Bangla, Hindi
 ---
 
 ### My stack and tools :
-#####Programming Languages: Javascript, python, dart, kotlin, php, GO, Rust, Swift
+##### Programming Languages: Javascript, python, dart, kotlin, php, GO, Rust, Swift
 <p>
 <img src='./image/javascript.png' height='40' width='40'/> 
 <img src='./image/react.png' height='50' width='55'/>
