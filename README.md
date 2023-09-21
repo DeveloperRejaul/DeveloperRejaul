@@ -6,11 +6,12 @@
 
 ### 🧑‍💻 About Me :
 
-I am a full Stack Mobile App Developer from Bangladesh.
+I am a full Stack Mobile and Web App Developer from Bangladesh.
 
 I’ve been actively studying the full stack for 3+ year. Quickly learn new information, have good analytical skills, attentive to details, work well on my own and in a team. Read much specialized literature. I like to achieve perfection in everything I do.
 
-Languages : English, Bangla, Hindi,
+Languages : English, Bangla, Hindi
+Programming Languages: Javascript, python, dart, kotlin, php, GO, Rust, Swift
 
 ---
 
