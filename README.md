@@ -51,4 +51,16 @@ Languages : English, Bangla, Hindi <br>
 |----------|--------------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow " width="55" height="55"/> | <img src="" title="Face api JS"  alt="face-api.js" width="55" height="55"/> 
 
+
 <div/>
+<div>
+
+### OS: ❤️ (Ubuntu)
+
+| Ubuntu | Windows | macOs|
+|--------|---------|-------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://e7.pngegg.com/pngimages/367/371/png-clipart-macos-apple-operating-systems-macos-logo-text-logo.png" title="macOs" alt="macOs" width="55" height="55"/> |
+
+
+    
+</div>
