@@ -49,6 +49,6 @@ Languages : English, Bangla, Hindi <br>
 
 |TensorFlow | Face api JS |
 |----------|--------------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow " width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Face api JS"  alt="face-api.js" width="55" height="55"/> 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow " width="55" height="55"/> | <img src="" title="Face api JS"  alt="face-api.js" width="55" height="55"/> 
 
 <div/>
