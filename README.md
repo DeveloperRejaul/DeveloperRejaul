@@ -45,5 +45,10 @@ Languages : English, Bangla, Hindi <br>
 |  <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" title="Ether JS"  alt="Ether js" width="55" height="55"/>|  <img src="https://github.com/web3/web3.js/blob/4.x/assets/logo/web3js.jpg" title="Web3 JS"  alt="Web3 js" width="55" height="55"/>|<img src="https://github.com/web3/web3.js/blob/4.x/assets/logo/web3js.jpg" title="Web3.eth Js"  alt="Web3.eth Js" width="55" height="55"/>
 
 
-<div/>
+### AI frameworks and libraries:
 
+|TensorFlow | Face api JS |
+|----------|--------------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow " width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Face api JS"  alt="face-api.js" width="55" height="55"/> 
+
+<div/>
