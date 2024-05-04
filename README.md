@@ -15,18 +15,12 @@ Languages : English, Bangla, Hindi <br>
 
 ---
 
-### My stack and tools :
+## Languages and Tools 
+<div>
 
-###### Programming Languages: Javascript, python
+### Languages:
+| Python3 | C | JS | Solidity |
+|----------|----------|----------|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|
 
-<p>
-<img src='./image/javascript.png' height='40' width='40'/> 
-<img src='./image/react.png' height='50' width='55'/>
-<img src='./image/react-native.png' height='45' width='55'/>
-<img src='./image/flutter.png' height='45' width='55'/>
-<img src='./image/redux.png' height='45' width='55'/>
-<img src='./image/node.png' height='45' width='55'/>
-<img src='./image/express.png' height='45' width='55'/>
-<img src='./image/socketio.png' height='45' width='55'/>
-<img src='./image/webRTC.png' height='45' width='55'/>
-</p>
+<div/>
