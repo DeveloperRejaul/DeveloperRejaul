@@ -25,11 +25,19 @@ Languages : English, Bangla, Hindi <br>
 
 
 
-### frameworks and libraries:
+### Frontend frameworks and libraries:
 
 | React js | React Native | Next Js | Tauri |
 |----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native"  alt="React Native" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next js" alt="Next Js" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tauri/tauri-original.svg" title="Tauri" alt="Tauri" width="55" height="55"/>|
+
+
+### Backend frameworks and libraries:
+
+| Node JS | Express JS | Nest Js | Fastify |
+|----------|----------|----------|---------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node JS"  alt="Node js" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express JS"  alt="Express js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nest JS"  alt="Nest js" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg" title="Fastify"  alt="Fastify" width="55" height="55"/> | 
+
 
 <div/>
 
