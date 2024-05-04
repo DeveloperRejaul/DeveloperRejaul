@@ -42,7 +42,7 @@ Languages : English, Bangla, Hindi <br>
 
 | Ether JS | Web3 JS | Web3.eth Js |
 |----------|----------|------------|
-|  <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" title="Ether JS"  alt="Ether js" width="55" height="55"/>|  <img src="https://github.com/web3/web3.js/blob/4.x/assets/logo/web3js.jpg" title="Web3 JS"  alt="Web3 js" width="55" height="55"/>|<img src="" title="Web3.eth Js"  alt="Web3.eth Js" width="55" height="55"/>
+|  <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" title="Ether JS"  alt="Ether js" width="55" height="55"/>|  <img src="https://github.com/web3/web3.js/blob/4.x/assets/logo/web3js.jpg" title="Web3 JS"  alt="Web3 js" width="55" height="55"/>|<img src="https://github.com/web3/web3.js/blob/4.x/assets/logo/web3js.jpg" title="Web3.eth Js"  alt="Web3.eth Js" width="55" height="55"/>
 
 
 <div/>
