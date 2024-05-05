@@ -36,9 +36,12 @@ Languages : English, Bangla, Hindi <br>
 
 ### Backend main frameworks and libraries:
 
-| Node JS | Express JS | Nest Js | Fastify | Socket | WebRTC | RabbitMQ | Kafka |
-|----------|----------|----------|---------|--------|--------|----------|-------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node JS"  alt="Node js" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express JS"  alt="Express js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nest JS"  alt="Nest js" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg" title="Fastify"  alt="Fastify" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket"  alt="Socket" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/10526312?s=200&v=4" title="WebRTC"  alt="WebRTC" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ"  alt="RabbitMQ" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/tulios/kafkajs/master/logo/v2/kafkajs_circle.svg" title="Kafka"  alt="Kafka" width="55" height="55"/> |
+| Node JS | Express JS | Nest Js | Fastify | Actix.rs | Socket | WebRTC | RabbitMQ | Kafka |
+|----------|----------|----------|---------|--------|--------|----------|----------|-------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node JS"  alt="Node js" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express JS"  alt="Express js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nest JS"  alt="Nest js" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg" title="Fastify"  alt="Fastify" width="55" height="55"/> |  <img src="https://actix.rs/img/logo.png" title="Actix"  alt="Actix" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket"  alt="Socket" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/10526312?s=200&v=4" title="WebRTC"  alt="WebRTC" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ"  alt="RabbitMQ" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/tulios/kafkajs/master/logo/v2/kafkajs_circle.svg" title="Kafka"  alt="Kafka" width="55" height="55"/> |
+
+
+
 
 ### Automation/bot main frameworks and libraries:
 | Node JS | Puppeteer | Selenium | Cheerio JS | Axios | Nut JS |
