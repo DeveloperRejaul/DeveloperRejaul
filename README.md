@@ -70,9 +70,9 @@ Languages : English, Bangla, Hindi <br>
 <div/>
 <div>
 
-### OS: ❤️ (Ubuntu)
+### OS: ❤️ (MacOS)
 
-| Ubuntu | Windows | macOs|
+| Ubuntu | Windows | MacOs|
 |--------|---------|-------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://e7.pngegg.com/pngimages/367/371/png-clipart-macos-apple-operating-systems-macos-logo-text-logo.png" title="macOs" alt="macOs" width="55" height="55"/> |
 
