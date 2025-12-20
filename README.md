@@ -24,7 +24,7 @@ Languages : English, Bangla, Hindi <br>
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TyprScript" alt="TyprScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>  |
 
 
-
+<!--  
 ### Frontend main frameworks and libraries:
 
 | React js | React Native | Expo | NativeScript | Next Js | Tauri | Redux | MobX | TailwindCSS | Firebase |
@@ -66,7 +66,7 @@ Languages : English, Bangla, Hindi <br>
 |----------|--------------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow " width="55" height="55"/> | <img src="" title="Face api JS"  alt="face-api.js" width="55" height="55"/> 
 
-
+-->
 <div/>
 <div>
 
